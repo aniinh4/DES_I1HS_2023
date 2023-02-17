@@ -1,2 +1,2 @@
-# DES_I1HS_2023
+# DES_I1HM_2023
 Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré
